@@ -4,7 +4,7 @@
 - **Database / 数据库**: SQLite (in-memory for testing)  
 - **ORM / 对象关系映射**: SQLAlchemy <br><br>
 
-# ArtfulArchive: An Art Collection Catalog System | 艺术档案：艺术藏品收录系统
+# ArtfulArchive: An Art Collection Catalog System <br>| 艺术档案：艺术藏品收录系统
 ## Overview | 概述
 A lightweight RESTful API built with Flask and SQLAlchemy for galleries, private collectors and art fairs. ArtfulArchive allows users to add, query, and remove art pieces, and track ownership information. With a clean and expandable structure, it's ready for future enhancements like image management, artist profiles.<br>
 一个基于Flask和SQLAlchemy构建的轻量级RESTful API，面向广大艺术馆、私人收藏家和艺术博览会。ArtfulArchive允许用户添加、查询和删除艺术品，并跟踪所有权信息。系统结构清晰，易于后续进行图片管理、艺术家资料等功能的扩展。
