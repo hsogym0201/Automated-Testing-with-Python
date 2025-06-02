@@ -51,7 +51,7 @@ System tests validate the full request–response cycle by simulating real HTTP 
 - Tests item creation, retrieval, updating, and deletion through API endpoints.<br>
 通过接口测试 Item 的创建、查询、更新和删除操作是否正常
 - Validates error responses for missing stores or non-existent items.<br>
-验证缺少关联商店或查询不存在商品时是否返回正确的错误响应
+验证缺少关联store或查询不存在item时是否返回正确的错误响应
 
 #### Store System Test
 - Validates creation, deletion, and retrieval of stores via the API, including duplicate store handling.<br>
